@@ -6,7 +6,7 @@
 - Mateus Irineu Mallmann
 - Matheus Alves Chaves
 
-## DESCRIÇÃO:
+## DESCRIÇÃO
 
 O nosso programa tem como função realizar uma contagem de palavras em documentos de texto. Onde a partir dessa contagem, ele ainda permite uma busca pelo número de ocorrências de uma palavra específica em um documento, ou a seleção de documentos relevantes para um dado termo de busca. O programa transforma todas as letras para minúsculas e ignora caracteres como números e pontuações na hora da execução.
 
